@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Nintendo 64
+  * Nintendo 63
+* Good movies
+* Bad movies
+* Nothing
+  * Some things, maybe
